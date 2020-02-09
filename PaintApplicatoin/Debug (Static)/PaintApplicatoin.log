@@ -1,0 +1,6 @@
+﻿  PaintClient.cpp
+  PaintController.cpp
+  PaintModel.cpp
+  PaintView.cpp
+  Generating Code...
+c:\users\kkimt\desktop\info_5100\projects\project2\tuiproject\paintapplicatoin\paintcontroller.cpp(51): error C4700: uninitialized local variable 'numEvents' used

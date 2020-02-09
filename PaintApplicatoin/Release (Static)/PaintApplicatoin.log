@@ -1,0 +1,10 @@
+﻿  PaintClient.cpp
+  PaintController.cpp
+  PaintModel.cpp
+  PaintView.cpp
+  Generating code
+c:\users\kkimt\desktop\info_5100\projects\project2\tuiproject\paintapplicatoin\paintcontroller.cpp(51): error C4700: uninitialized local variable 'numEvents' used
+  542 of 542 functions (100.0%) were compiled.
+    389 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+LINK : fatal error LNK1257: code generation failed
