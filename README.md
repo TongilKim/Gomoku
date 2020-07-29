@@ -8,3 +8,4 @@ Hided the cursor while the program is running.
 Gomoku:
 The Gomoku program allows two players to place pieces on alternating turns, and indicates that a player has won the match.  
 Check out Wikipedia for the instructions on Gomoku.
+https://en.wikipedia.org/wiki/Gomoku
