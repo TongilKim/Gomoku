@@ -1,7 +1,7 @@
 # Gomoku & Paint
 
 # Description
-This project has two seperate applications which are Gomoku, and Paint in one project. The project implementing a combination of 'Facade Design Pattern' and 'Observer Design Pattern'./n
+This project has two seperate applications which are Gomoku, and Paint in one project. The project implementing a combination of 'Facade Design Pattern' and 'Observer Design Pattern'.
 The inner façade interacts with the Windows Console API and it's the only object that interacts with the API.
 The outer façade only interact with the inner façade and will provide the value-added features like creating, restoring, and resizing the console.
 Please refer to the UML diagram that I attached on
